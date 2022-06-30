@@ -1,0 +1,25 @@
+body{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkgrey;
+    color:white
+}
+
+img{
+    width: 100px;
+    aspect-ratio: 1;
+}
+
+.list{
+    background-color: blue;
+    color: red;
+}
+
+.list.item{
+    color: yellow;
+}
+
+.title{
+    color:black;
+    text-align: center
+}
